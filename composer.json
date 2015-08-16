@@ -15,7 +15,7 @@
             "email": "kileev@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "php": ">=5.4.0",
         "zendframework/zend-feed": "2.3.*@dev",
